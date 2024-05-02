@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @neto605
 - 👀 I’m interested in programmming   
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 neto605/neto605 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
